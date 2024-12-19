@@ -1,0 +1,16 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "npm",
+      "script": "dev",
+      "group": "build",
+      "problemMatcher": [],
+      "label": "npm: dev",
+      "detail": "Runs the npm dev script",
+      "presentation": {
+        "reveal": "silent"
+      }
+    }
+  ]
+}
